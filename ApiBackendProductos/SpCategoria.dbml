@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SeriesPeliculasDB" Class="SpCategoriaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=localhost;Initial Catalog=SeriesPeliculasDB;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="SeriesPeliculasDBConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.SP_LIST_CATEGORY" Method="SP_LIST_CATEGORY">
+    <ElementType Name="SP_LIST_CATEGORYResult">
+      <Column Name="ID_CATEGORY" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="NAME_CATEGORY" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="ACTIVE" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

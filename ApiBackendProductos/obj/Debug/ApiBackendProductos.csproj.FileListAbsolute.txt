@@ -1,0 +1,10 @@
+C:\Users\Erik Solarte\source\repos\ProjectWeather\WCFServiceWeather\WcfServiceWeather\obj\Debug\ApiBackendProductos.csproj.AssemblyReference.cache
+C:\Users\Erik Solarte\source\repos\ProjectWeather\WCFServiceWeather\WcfServiceWeather\obj\Debug\ApiBackendProductos.csproj.CoreCompileInputs.cache
+C:\Users\Erik Solarte\source\repos\ProjectWeather\WCFServiceWeather\WcfServiceWeather\bin\WcfServiceProductos.dll.config
+C:\Users\Erik Solarte\source\repos\ProjectWeather\WCFServiceWeather\WcfServiceWeather\bin\WcfServiceProductos.dll
+C:\Users\Erik Solarte\source\repos\ProjectWeather\WCFServiceWeather\WcfServiceWeather\bin\WcfServiceProductos.pdb
+C:\Users\Erik Solarte\source\repos\ProjectWeather\WCFServiceWeather\WcfServiceWeather\bin\Newtonsoft.Json.dll
+C:\Users\Erik Solarte\source\repos\ProjectWeather\WCFServiceWeather\WcfServiceWeather\bin\Newtonsoft.Json.xml
+C:\Users\Erik Solarte\source\repos\ProjectWeather\WCFServiceWeather\WcfServiceWeather\obj\Debug\ApiBackendProductos.csproj.CopyComplete
+C:\Users\Erik Solarte\source\repos\ProjectWeather\WCFServiceWeather\WcfServiceWeather\obj\Debug\WcfServiceProductos.dll
+C:\Users\Erik Solarte\source\repos\ProjectWeather\WCFServiceWeather\WcfServiceWeather\obj\Debug\WcfServiceProductos.pdb
